@@ -34,11 +34,13 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 
-<p >
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adnandevelop&show_icons=true&locale=en&layout=compact&theme=dark" alt="adnandevelop" style="height: 200px;"/>
+<p style="">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adnandevelop&show_icons=true&locale=en&layout=compact&theme=dark" alt="adnandevelop" style="height: 200px; "/>
 </p>
 
-
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=adnandevelop&show_icons=true&locale=en&theme=dark" alt="adnandevelop" style="height: 200px; width: 400px;"/>
+</p>
 
 <p>
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=adnandevelop&border_radius=4&theme=dark" alt="adnandevelop's streak stats" />
