@@ -39,7 +39,7 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=adnandevelop&show_icons=true&locale=en&theme=dark" alt="adnandevelop" style="height: 200px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=adnandevelop&show_icons=true&locale=en&theme=dark" alt="adnandevelop" style="height: 200px; "/>
 </p>
 
 <p>
